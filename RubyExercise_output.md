@@ -10,6 +10,8 @@ Exercise - 2: Comments and pounds
 
 ![image](https://user-images.githubusercontent.com/95071003/147742420-dd42967a-4664-4b06-a93b-1e9151bdb896.png)
 
+Find out if you were right about what the # character does and make sure you know what it's called (octothorpe or pound character).
+
 '#' is called as octothorpe , which is used for commenting the lines of code.
 
 Exercise -3: Number and math
