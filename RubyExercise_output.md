@@ -237,6 +237,7 @@ Find out why we had to pass a 'w' as an extra parameter to open. Hint: open trie
 If we did not use 'w' as a parameter , the file will open in read mode by default . Hence to write stuff in this file , we need to add 'w' parameter.
 
 If you open the file with 'w' mode, then do you really need the target.truncate()? Read the documentation for Ruby's open function and see if that's true.
+
 If we give a filename that does not exist in command line , this 'w' will create a new file and write to it.
 Truncate method is not necessary as the file opens in write mode , it will automatically rewrite the file.
 And it doesn't matter if the file is in write or read mode , truncate function does work.
