@@ -130,7 +130,7 @@ Go online and find out what Ruby's gets.chomp does.
 
 gets - create a new line and ask the user to input somethings
 
-gets.chomp - ask the user to input something but does not create a new line.
+gets.chomp - ask the user to input something and chomp get rid of the new line character that gets does.
 
 Can you find other ways to use it? Try some of the samples you find.
 
