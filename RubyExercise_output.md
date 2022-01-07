@@ -824,5 +824,10 @@ My sample game.
 
 ![image](https://user-images.githubusercontent.com/95071003/148421168-e6bacee7-d7f1-405e-af7e-a2e2dfeea164.png)
 
+Exercise - 46 :
+
+Creating the Skeleton Project Directory
+
+![image](https://user-images.githubusercontent.com/95071003/148583108-9be300c8-b7f0-4da3-b2e6-b7c5bd5c84e3.png)
 
 
