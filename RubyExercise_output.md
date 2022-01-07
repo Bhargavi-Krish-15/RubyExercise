@@ -267,6 +267,10 @@ Exercise - 18: Name , variable , code , function
 
 ![image](https://user-images.githubusercontent.com/95071003/147848809-00ed756e-b33b-437b-ba3f-eb05ef3e47e0.png)
 
+Functions that don't have parameters do not need the () after them, but would it be clearer if you wrote them anyway?
+
+Using parenthesis after function will have a better understanding than without one. We can also perform function operation without parenthesis.
+
 Exercise -19: Functions and Variables
 
 ![image](https://user-images.githubusercontent.com/95071003/147848992-788b3ff7-4045-4a16-a5bf-9be7e8512a6b.png)
