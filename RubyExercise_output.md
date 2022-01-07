@@ -191,6 +191,10 @@ Add another argument and use it in your script, the same way you did in the prev
 
 ![image](https://user-images.githubusercontent.com/95071003/147817956-2c6500c4-6c2c-4114-b1aa-e7e7004f58f1.png)
 
+Make sure you understand how I combined a """ style multiline string with the #{} format activator as the last print.
+
+Using ''' does not allow to add #{} which print it as string . While using """ will allow variables to add inside #{}.
+
 Exercise -15: Reading files
 
 ![image](https://user-images.githubusercontent.com/95071003/147819358-97ce6122-166c-41a7-b2e5-5ceda0983e64.png)
