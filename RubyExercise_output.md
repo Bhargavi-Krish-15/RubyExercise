@@ -98,8 +98,8 @@ Exercise - 9: Printing , printing , printing
 ![image](https://user-images.githubusercontent.com/95071003/147758471-015f7201-4e1c-4c76-95c7-df7bb36c155d.png)
 
 Writing %{Ruby is fun.} is equivalent to "Ruby is fun."
-Writing %Q{ Ruby is fun. } is equivalent to " Ruby is fun. "
-Writing %q[Ruby is fun.] is equivalent to  'Ruby is fun.'(single quotes)
+Writing %Q{ Ruby is fun. } is equivalent to " Ruby is fun. "(double quotes)
+Writing %q{Ruby is fun.} is equivalent to  'Ruby is fun.'(single quotes)
 
 Exercise -10: What was that?
 
