@@ -50,6 +50,8 @@ Try running ruby from the Terminal as a calculator like you did before, and use 
 
 ![image](https://user-images.githubusercontent.com/95071003/147744159-86221fac-b85a-4895-8e35-96d31f1d609f.png)
 
+![image](https://user-images.githubusercontent.com/95071003/148498016-e7b73b65-32e0-4478-a197-d1c7de41b425.png)
+
 Exercise -5: More variables and printing
 
 ![image](https://user-images.githubusercontent.com/95071003/147745333-7f1eb526-9965-4f2a-ba48-cd6419a07434.png)
