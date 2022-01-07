@@ -356,6 +356,19 @@ Exercise - 26:Take a test!
 
 ![image](https://user-images.githubusercontent.com/95071003/147874493-421307de-44bf-49e7-a6cc-5dda8e4c2a4c.png)
 
+Take the remaining lines of the What You Should See output and figure out what they are doing. Make sure you understand how you are running your functions in the ex25 module.
+
+![image](https://user-images.githubusercontent.com/95071003/148555340-01b3a2e2-f326-45e9-9dc4-aeecd6b47e60.png)
+
+The Ex25 module doesn't have to be in a file named ex25.rb. Try putting it in a new file with a random name, then import that file and see how you still have Ex25 available even though the file you made does not have ex25 in it.
+
+![image](https://user-images.githubusercontent.com/95071003/148555819-e2566b28-1d35-44de-84c6-fbe915fc367b.png)
+
+Try breaking your file and see what it looks like in irb when you use it. You will have to quit irb with quit() to be able to reload it.
+
+![image](https://user-images.githubusercontent.com/95071003/148556235-57d85392-52f4-4fd7-b5ab-ee16c72d7402.png)
+
+
 Exercise - 28: Boolean practice
 
 ![image](https://user-images.githubusercontent.com/95071003/147874946-a115e3a3-5d9c-4b4d-807e-052a68b58b73.png)
