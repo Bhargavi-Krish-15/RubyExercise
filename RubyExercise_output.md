@@ -233,7 +233,8 @@ There's too much repetition in this file. Use strings, formats, and escapes to p
 ![image](https://user-images.githubusercontent.com/95071003/147828433-9256363e-fe88-45b3-9b18-599ee4a05a04.png)
 
 Find out why we had to pass a 'w' as an extra parameter to open. Hint: open tries to be safe by making you explicitly say you want to write a file.
-if we did not use 'w' as a parameter , the file will open in read mode by default . Hence to write stuff in this file , we need to add 'w' parameter.
+
+If we did not use 'w' as a parameter , the file will open in read mode by default . Hence to write stuff in this file , we need to add 'w' parameter.
 
 If you open the file with 'w' mode, then do you really need the target.truncate()? Read the documentation for Ruby's open function and see if that's true.
 If we give a filename that does not exist in command line , this 'w' will create a new file and write to it.
