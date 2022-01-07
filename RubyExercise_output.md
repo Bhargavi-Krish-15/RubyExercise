@@ -248,7 +248,7 @@ Exercise - 17: More Files
 
 ![image](https://user-images.githubusercontent.com/95071003/147831127-471531e8-6603-4d6d-9cad-936ff9ea9737.png)
 
-This like creating a file test.txt , with content to print in echo command and using cat command to read the file in command line.
+This is like creating a file test.txt  with content to print using echo command and using cat command it is used to read the file in command line.
 
 This script is really annoying. There's no need to ask you before doing the copy, and it prints too much out to the screen. Try to make the script more friendly to use by removing features.
 
