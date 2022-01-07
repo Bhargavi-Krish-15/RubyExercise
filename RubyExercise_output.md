@@ -259,6 +259,7 @@ Type man cat to read about it.
 ![image](https://user-images.githubusercontent.com/95071003/147831816-529b0571-91da-45f7-b28f-90d73245183e.png)
 
 Find out why you had to write out_file.close in the code.
+
 When we open the file for writing , our write operation will be hidden in buffer. At some scenarios , buffer writes on the disc . So if we dont close the file , the data we thought that we wrote will not be actually written.
 So it is important to close the file or else , we will lose our data.
 
