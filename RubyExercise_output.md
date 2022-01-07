@@ -98,7 +98,9 @@ Exercise - 9: Printing , printing , printing
 ![image](https://user-images.githubusercontent.com/95071003/147758471-015f7201-4e1c-4c76-95c7-df7bb36c155d.png)
 
 Writing %{Ruby is fun.} is equivalent to "Ruby is fun."
+
 Writing %Q{ Ruby is fun. } is equivalent to " Ruby is fun. "(double quotes)
+
 Writing %q{Ruby is fun.} is equivalent to  'Ruby is fun.'(single quotes)
 
 Exercise -10: What was that?
@@ -125,7 +127,9 @@ Exercise -11: Asking questions
 ![image](https://user-images.githubusercontent.com/95071003/147770738-253b1521-0967-47b6-ae6c-a86e19352b82.png)
 
 Go online and find out what Ruby's gets.chomp does.
+
 gets - create a new line and ask the user to input somethings
+
 gets.chomp - ask the user to input something but does not create a new line.
 
 Can you find other ways to use it? Try some of the samples you find.
