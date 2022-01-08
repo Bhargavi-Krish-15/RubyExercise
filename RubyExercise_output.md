@@ -891,3 +891,5 @@ Exercise - 47: Automated testing
 ![image](https://user-images.githubusercontent.com/95071003/148635628-728e8f3d-11b4-4be9-93f4-2d01fd5ae95e.png)
 
 ![image](https://user-images.githubusercontent.com/95071003/148635806-134c2915-9287-4222-81f3-c69499f349cd.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148635916-a86ad42c-92e1-42d3-bebd-59ff03c245ab.png)
