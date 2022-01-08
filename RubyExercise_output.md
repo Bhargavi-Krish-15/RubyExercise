@@ -883,3 +883,11 @@ Use your Gemspec to install your own module and make sure it works, then use gem
 
 ![image](https://user-images.githubusercontent.com/95071003/148635478-8b699d84-0947-4eb6-9943-221ddd20a37c.png)
 
+
+Exercise - 47: Automated testing
+
+![image](https://user-images.githubusercontent.com/95071003/148635639-7fb875a7-97b7-4f6d-ab2e-93db84cd77e4.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148635628-728e8f3d-11b4-4be9-93f4-2d01fd5ae95e.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148635806-134c2915-9287-4222-81f3-c69499f349cd.png)
