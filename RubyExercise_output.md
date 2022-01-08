@@ -836,12 +836,10 @@ The above command did not work , hence
 
 ![image](https://user-images.githubusercontent.com/95071003/148633702-65dbebce-85bd-4430-86d9-01e506968087.png)
 
+![image](https://user-images.githubusercontent.com/95071003/148633821-75e063ac-f4af-4ed5-bb51-cdd0495b3b60.png)
 
-![image](https://user-images.githubusercontent.com/95071003/148583108-9be300c8-b7f0-4da3-b2e6-b7c5bd5c84e3.png)
+![image](https://user-images.githubusercontent.com/95071003/148633863-ee1eed7e-5174-4821-8dca-2294dcff2b7f.png)
 
-![image](https://user-images.githubusercontent.com/95071003/148632979-9021d524-91d2-4a83-8a9f-1242252dbe67.png)
-
-![image](https://user-images.githubusercontent.com/95071003/148632967-3abec428-6203-4dc3-b764-a6abcf4c4ebe.png)
 
 Read about how to use all of the things you installed.
 
@@ -867,4 +865,21 @@ RubyGems is a package manager for the Ruby programming language that provides a 
 
 And NAMEspec is a gem spec file , that contains the information of that package manager .
 
+Make a project put code into the module, then get the module working. This means you have to change all the files, directories, and modules with NAME in them to the name of your project. If you get stuck, watch the video for this exercise to see how I did it.
+
+![image](https://user-images.githubusercontent.com/95071003/148634177-37306e17-ab2b-47cc-b93a-b4509d261a6e.png)
+
+Put a script in the bin directory that you can run. Read about how you can make a Ruby script that's runnable for your system.
+
+![image](https://user-images.githubusercontent.com/95071003/148634882-e55d6d0a-f4ae-4da6-8d41-12d00a906e99.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148634877-5f3b426f-9bb0-4982-908a-7aed70820cea.png)
+
+ Mention the bin script you created in your Gemspec so that it gets installed.
+ 
+ ![image](https://user-images.githubusercontent.com/95071003/148634956-b1b3130e-69bf-4dca-a528-e470c006624d.png)
+
+Use your Gemspec to install your own module and make sure it works, then use gem to uninstall it.
+
+![image](https://user-images.githubusercontent.com/95071003/148635478-8b699d84-0947-4eb6-9943-221ddd20a37c.png)
 
