@@ -893,3 +893,13 @@ Exercise - 47: Automated testing
 ![image](https://user-images.githubusercontent.com/95071003/148635806-134c2915-9287-4222-81f3-c69499f349cd.png)
 
 ![image](https://user-images.githubusercontent.com/95071003/148635916-a86ad42c-92e1-42d3-bebd-59ff03c245ab.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148641106-64af8661-ad30-4270-85b3-9e703b46486e.png)
+
+Go read about Ruby's Test::Unit more, and also read about alternatives.
+
+Test::Unit is a unit testing framework for Ruby. The idea behind unit testing, is to write test methods that make certain assertions about your code, against a test fixture. A test fixture is fixed state of the software that is used as a baseline for making the tests. An assertion is like making a statement about an expected outcome.  “I expect x to be y.”
+The assert_equal method tests if the expected result is equal to the actual result. The syntax is assert_equal(expected, result, failure_message = nil). This method tests if expected is equal to result. 
+
+Write a new test case in tests/test_ex47.rb that creates a miniature version of your game from Exercise 45. This is one function that is similar to the current functions, but using your game's room names and abbreviated descriptions. Remember to use Room.add_paths to create the map, and use assertions to confirm everything works as expected.
+
