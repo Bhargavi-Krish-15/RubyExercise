@@ -828,6 +828,13 @@ Exercise - 46 :
 
 Creating the Skeleton Project Directory
 
+![image](https://user-images.githubusercontent.com/95071003/148633505-777898cb-9461-4980-bec8-457c313ff85f.png)
+
+The above command did not work , hence
+
+![image](https://user-images.githubusercontent.com/95071003/148633514-975fad5a-e0d7-415b-b2c8-176fecf86273.png)
+
+
 ![image](https://user-images.githubusercontent.com/95071003/148583108-9be300c8-b7f0-4da3-b2e6-b7c5bd5c84e3.png)
 
 ![image](https://user-images.githubusercontent.com/95071003/148632979-9021d524-91d2-4a83-8a9f-1242252dbe67.png)
