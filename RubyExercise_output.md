@@ -905,3 +905,10 @@ Write a new test case in tests/test_ex47.rb that creates a miniature version of 
 
 ![image](https://user-images.githubusercontent.com/95071003/148644922-914e317b-dfcf-4113-bc22-9be40688dfe8.png)
 
+Exercise -48:
+
+![image](https://user-images.githubusercontent.com/95071003/148653834-73e37b13-3a16-4953-979a-fafcafe11f44.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148654019-575c1b65-0210-46f0-a333-6d03dc5ee445.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148654273-f337c284-be70-4f88-b6c8-a5b783dbf038.png)
