@@ -830,4 +830,32 @@ Creating the Skeleton Project Directory
 
 ![image](https://user-images.githubusercontent.com/95071003/148583108-9be300c8-b7f0-4da3-b2e6-b7c5bd5c84e3.png)
 
+![image](https://user-images.githubusercontent.com/95071003/148632979-9021d524-91d2-4a83-8a9f-1242252dbe67.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148632967-3abec428-6203-4dc3-b764-a6abcf4c4ebe.png)
+
+Read about how to use all of the things you installed.
+
+NAME.gemspec – a gemspec is a file that contains information for a gem.
+
+Rakefile – this is the file that the rake program uses to automate tests and generate code
+
+bin – bin stands for binaries, it is where the binary (executable) files go! , not garbage recycle bin
+
+doc – this directory is where you put the documentation for your gem
+
+lib – this directory is where you put the code for the gem.
+
+data – this directory is a place to store application data (for example, database, cache, session files).
+
+ext – this directory is for the extensions of your application.
+
+tests – this directory is where you put the tests for the gem
+
+Read about the NAME.gemspec file, commonly called a "Gemspec", and all it has to offer.
+
+RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries, a tool designed to easily manage the installation of gems, and a server for distributing them.
+
+And NAMEspec is a gem spec file , that contains the information of that package manager .
+
 
