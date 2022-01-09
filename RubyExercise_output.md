@@ -949,6 +949,10 @@ Instead of printing the result , i returned the final result at the end of def:
 
 ![image](https://user-images.githubusercontent.com/95071003/148686043-17d6408e-ee22-490e-ad40-a490c6745956.png)
 
+I forgot to change string to integer
+
+![image](https://user-images.githubusercontent.com/95071003/148688092-21947947-0453-406c-afaa-6fc78210f54c.png)
+
 
 ....
 
