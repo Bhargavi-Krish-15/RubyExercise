@@ -953,13 +953,7 @@ I forgot to change string to integer
 
 ![image](https://user-images.githubusercontent.com/95071003/148688092-21947947-0453-406c-afaa-6fc78210f54c.png)
 
-Converting the string downcase condition alone make it fail:
-
-![image](https://user-images.githubusercontent.com/95071003/148691065-6420609e-f017-48a8-9836-e9cf108bd805.png)
-
-eventhough i convert it to lowercase:
-
-![image](https://user-images.githubusercontent.com/95071003/148691184-e7bb2ce7-8a7e-4d3c-ab73-70d493527a22.png)
+![image](https://user-images.githubusercontent.com/95071003/148691497-68e34181-f5c8-46dc-96d7-6659ea5e02c7.png)
 
 ....
 
