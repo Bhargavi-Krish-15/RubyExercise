@@ -934,6 +934,18 @@ if there was a number in string:
 ![image](https://user-images.githubusercontent.com/95071003/148674462-3f1dd8f7-3c0f-44c5-addb-466b25e3b3bf.png)
 
 ![image](https://user-images.githubusercontent.com/95071003/148674436-b9e5fdd5-6e82-481d-a14c-fab6ef993ffa.png)
+
+
+![image](https://user-images.githubusercontent.com/95071003/148677623-e7b8a1f1-62ca-466c-a629-7f02aaf8ffdc.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148677635-0bf02d71-2d21-4f82-a8be-1a326edf4e1c.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148677641-08278190-88b1-4416-ac08-82a3ee39b02e.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148677646-6e9ac9bf-14e4-494d-a9ff-eb7997b5508a.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148677660-f2200a8c-c9bb-4c01-947d-bce5eac0a6c5.png)
+
 ....
 
 Improve the unit test to make sure you test more of the lexicon.
