@@ -973,4 +973,8 @@ My solution was 37 lines long. Is yours longer? Shorter?
 
 Noooo. 57 lines with comments.
 
+Exercise -49: Making sentence
+
+![image](https://user-images.githubusercontent.com/95071003/148678910-c9c5ee18-a4df-4cb5-af18-eb4f51730e93.png)
+
 
