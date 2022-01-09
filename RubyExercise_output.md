@@ -929,7 +929,37 @@ if the result stays empty :
 
 ![image](https://user-images.githubusercontent.com/95071003/148673089-44c72993-39e4-4fd4-b886-c4ae23ead243.png)
 
+![image](https://user-images.githubusercontent.com/95071003/148674062-e426a964-d314-4034-a0a9-72d8ddfd1985.png)
 
+if there was a number in string:
 
+![image](https://user-images.githubusercontent.com/95071003/148674462-3f1dd8f7-3c0f-44c5-addb-466b25e3b3bf.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148674436-b9e5fdd5-6e82-481d-a14c-fab6ef993ffa.png)
+....
+
+![image](https://user-images.githubusercontent.com/95071003/148674046-507f9474-752e-4138-a9aa-51580097c90d.png)
+
+Improve the unit test to make sure you test more of the lexicon.
+
+Added more words to dictionary and in the test case:
+Add to the lexicon and then update the unit test.
+
+![image](https://user-images.githubusercontent.com/95071003/148674563-a2b55cd3-dfe3-433e-a08f-15d40c2aed88.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148674575-b0747cc4-7666-465f-b234-6ef5ccc5ca37.png)
+
+Make sure your scanner handles user input in any capitalization and case. Update the test to make sure this actually works.
+If it is in caps , we change to lower case 
+
+![image](https://user-images.githubusercontent.com/95071003/148674648-99f4aadc-5202-4fb9-a49a-a6e7bf4f28b4.png)
+
+Find another way to convert the number.
+
+Get the string and convert it to integer do the needed procedd and again convert to string before pushing.
+
+My solution was 37 lines long. Is yours longer? Shorter?
+
+Noooo. 57 lines with comments.
 
 
