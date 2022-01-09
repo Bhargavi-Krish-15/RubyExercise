@@ -912,3 +912,24 @@ Exercise -48:
 ![image](https://user-images.githubusercontent.com/95071003/148654019-575c1b65-0210-46f0-a333-6d03dc5ee445.png)
 
 ![image](https://user-images.githubusercontent.com/95071003/148654273-f337c284-be70-4f88-b6c8-a5b783dbf038.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148671442-21d855cb-fb7b-433b-a573-032535357552.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148672287-29b8193f-afa4-4e28-8cec-7001854590d0.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148672293-f5ab4d47-9a91-465c-8a69-a35622456795.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148672388-5b84cf1c-e1ef-48cd-91e1-5700465574db.png)
+
+Finally :)
+![image](https://user-images.githubusercontent.com/95071003/148672790-c36f51ec-0f1f-458e-93b3-b0f338ddd78d.png)
+for verb , stops , noun , direction this method will be applicable
+
+if the result stays empty :
+
+![image](https://user-images.githubusercontent.com/95071003/148673089-44c72993-39e4-4fd4-b886-c4ae23ead243.png)
+
+
+
+
+
