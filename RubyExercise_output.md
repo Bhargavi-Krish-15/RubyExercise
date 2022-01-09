@@ -921,8 +921,6 @@ Exercise -48:
 
 ![image](https://user-images.githubusercontent.com/95071003/148672388-5b84cf1c-e1ef-48cd-91e1-5700465574db.png)
 
-Finally :)
-![image](https://user-images.githubusercontent.com/95071003/148672790-c36f51ec-0f1f-458e-93b3-b0f338ddd78d.png)
 for verb , stops , noun , direction this method will be applicable
 
 if the result stays empty :
@@ -937,8 +935,6 @@ if there was a number in string:
 
 ![image](https://user-images.githubusercontent.com/95071003/148674436-b9e5fdd5-6e82-481d-a14c-fab6ef993ffa.png)
 ....
-
-![image](https://user-images.githubusercontent.com/95071003/148674046-507f9474-752e-4138-a9aa-51580097c90d.png)
 
 Improve the unit test to make sure you test more of the lexicon.
 
