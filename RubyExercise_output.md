@@ -925,9 +925,7 @@ for verb , stops , noun , direction this method will be applicable
 
 if the result stays empty :
 
-![image](https://user-images.githubusercontent.com/95071003/148673089-44c72993-39e4-4fd4-b886-c4ae23ead243.png)
-
-![image](https://user-images.githubusercontent.com/95071003/148674062-e426a964-d314-4034-a0a9-72d8ddfd1985.png)
+![image](https://user-images.githubusercontent.com/95071003/148677945-c5e6a87b-1089-4f26-b206-de8fdc6d197b.png)
 
 if there was a number in string:
 
@@ -945,6 +943,11 @@ if there was a number in string:
 ![image](https://user-images.githubusercontent.com/95071003/148677646-6e9ac9bf-14e4-494d-a9ff-eb7997b5508a.png)
 
 ![image](https://user-images.githubusercontent.com/95071003/148677660-f2200a8c-c9bb-4c01-947d-bce5eac0a6c5.png)
+
+Instead of printing the result , i returned the final result at the end of def:
+![image](https://user-images.githubusercontent.com/95071003/148678343-2206a6ce-a084-4784-8a58-ec24b4d107d0.png)
+
+
 
 ....
 
