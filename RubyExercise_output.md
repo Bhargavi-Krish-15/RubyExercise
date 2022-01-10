@@ -985,4 +985,45 @@ Exercise -49: Making sentence
 
 ![image](https://user-images.githubusercontent.com/95071003/148678910-c9c5ee18-a4df-4cb5-af18-eb4f51730e93.png)
 
+![image](https://user-images.githubusercontent.com/95071003/148802998-bc3560fb-a4ab-4708-9474-a143f91f5af6.png)
 
+Error in brackets:
+
+![image](https://user-images.githubusercontent.com/95071003/148803545-5fa866e7-edc0-4988-8755-b4582b12248f.png)
+
+skip is a keyword in ruby:
+![image](https://user-images.githubusercontent.com/95071003/148803755-dba42e19-cc9b-4ace-8049-7f77b8a2f335.png)
+
+Finally:
+
+![image](https://user-images.githubusercontent.com/95071003/148804178-4bae234b-4998-469f-9603-2afc4936baf0.png)
+
+Change the parse_ methods and try to put them into a class rather than use them just as methods. Which design do you like better?
+
+![image](https://user-images.githubusercontent.com/95071003/148804466-13e29889-033b-434d-b9f8-2f481d43be14.png)
+
+Put in class is always the best one.
+
+Make the parser more error-resistant so that you can avoid annoying your users if they type words your lexicon doesn't understand.
+
+If sometimes the user types owrd out of the dicitonary that we create , in the place of stop , if there was someother word , we can just add it as the stop word and add it to dictionary in like not_saved_word , hence when the uuser calls it again it wont annoy them.
+
+Improve the grammar by handling more things like numbers.
+
+![image](https://user-images.githubusercontent.com/95071003/148806676-2b40c05f-6444-451e-8c19-4030953635c4.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148806802-27950ec8-1b9c-480e-8043-0ee868b57ac3.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148806849-2b7e76f4-82e6-4fa4-8492-1b95366093f0.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148807359-1da547e7-747b-4e45-906e-b58d45f242a7.png)
+
+Think about how you might use this Sentence class in your game to do more fun things with a user's input.
+
+When we get user input when they are near the deadth room , the input might use this class and let them not be trapped. Hence these class may improve user game ability. 
+
+In the begining , I did not get this output , found that skip is a ruby keyword:
+
+![image](https://user-images.githubusercontent.com/95071003/148808873-7520b5c0-d715-457b-a0a9-61c033b5ba3f.png)
+
+Exercise - 50:
