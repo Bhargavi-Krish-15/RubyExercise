@@ -1026,4 +1026,18 @@ In the begining , I did not get this output , found that skip is a ruby keyword:
 
 ![image](https://user-images.githubusercontent.com/95071003/148808873-7520b5c0-d715-457b-a0a9-61c033b5ba3f.png)
 
-Exercise - 50:
+Exercise - 50: Making a website
+
+![image](https://user-images.githubusercontent.com/95071003/148812043-82d390f6-211f-463a-9c4d-561b640f1827.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148812380-448edfe9-7968-4ec9-a8ec-a49f3c6d3146.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148813195-6fc7a3d6-57ac-489b-8e24-49833fc36aa0.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148813582-874d006f-3c82-44c0-9e8d-3545a5f8d702.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148813704-2d8c7748-7c73-4a88-8919-f92e70d84e13.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148813755-64176a90-2a54-4060-82e0-589395a632ac.png)
+
+
