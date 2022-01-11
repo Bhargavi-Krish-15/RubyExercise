@@ -1086,4 +1086,21 @@ Put some content in static/howdy.html and go to http://localhost:8080/howdy.html
 
 ![image](https://user-images.githubusercontent.com/95071003/148901892-49afb763-4134-4dfa-a8a9-e2700d8a84b6.png)
 
+after typing form:
+
+![image](https://user-images.githubusercontent.com/95071003/148960818-9e0614c0-1dc8-468d-8336-c840178d5e3a.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148960926-1339bf20-7b8e-4117-a8f2-7385b8455a7f.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148960952-ce39dd60-8fb8-43fb-a5b4-635262b7279f.png)
+
+rake test:
+
+![image](https://user-images.githubusercontent.com/95071003/148963717-d4e412a6-8b76-496b-bd78-b0b7cd695fb8.png)
+
+Read even more about HTML, and give the simple form a better layout. It helps to draw what you want to do on paper and then implement it with HTML.
+
+![image](https://user-images.githubusercontent.com/95071003/148975251-e77a1d8e-76cd-4a9a-9e97-98078aa56081.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148975332-663a2280-1150-444b-8427-2f5a379032e4.png)
 
