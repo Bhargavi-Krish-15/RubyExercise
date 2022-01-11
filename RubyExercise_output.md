@@ -1080,4 +1080,10 @@ try to change the param variable name :
 
 ![image](https://user-images.githubusercontent.com/95071003/148901438-d79fec0d-0596-4742-8f04-702ede6183e7.png)
 
+Put some content in static/howdy.html and go to http://localhost:8080/howdy.html. If it doesn't work, make sure your app.rb file has the correct :public_folder setting.
+
+![image](https://user-images.githubusercontent.com/95071003/148901827-2d0a1963-9673-4e8c-871b-d2edaff71b98.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148901892-49afb763-4134-4dfa-a8a9-e2700d8a84b6.png)
+
 
