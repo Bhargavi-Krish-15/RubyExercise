@@ -1040,5 +1040,36 @@ Exercise - 50: Making a website
 
 ![image](https://user-images.githubusercontent.com/95071003/148813755-64176a90-2a54-4060-82e0-589395a632ac.png)
 
+![image](https://user-images.githubusercontent.com/95071003/148898236-8f6ce03c-600d-432e-8655-551079995b4d.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148898346-b958bdc8-64d7-4fba-91a1-a3c6377b5033.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148898401-d8bb1287-b33b-4d5b-81ad-743c74794660.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148898501-40e8972f-8294-4fd1-98d6-5877f75e0386.png)
+
+Experiment with everything you can find there, including their example code.
+
+try to change the param variable name :
+
+![image](https://user-images.githubusercontent.com/95071003/148899018-88167064-34e5-4f85-aefc-7cfab2b68055.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148898726-4a097316-788c-4d3c-b84c-3149f8c2d6ff.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148898697-2be9271d-df7e-4597-a001-2eddd78254d2.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148898875-fe0bbc0b-72dd-454f-a1bf-b55e0223e1e5.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148898850-a224ecb8-c906-4994-8659-ba567b582920.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148899235-585a8575-ab35-459a-9bd9-b13b2b3e4613.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148899217-cba74e10-3b59-402a-88c0-02336f80edc6.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148899520-fccfa280-facb-45d0-a70c-093d963633d3.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148899548-de26a051-792f-47da-be67-d127706589a7.png)
+
+![image](https://user-images.githubusercontent.com/95071003/148899586-a6849896-0a0f-4212-8096-7609109d2488.png)
 
 
