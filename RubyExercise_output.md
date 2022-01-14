@@ -1104,3 +1104,16 @@ Read even more about HTML, and give the simple form a better layout. It helps to
 
 ![image](https://user-images.githubusercontent.com/95071003/148975332-663a2280-1150-444b-8427-2f5a379032e4.png)
 
+
+Exercise -52:
+
+![image](https://user-images.githubusercontent.com/95071003/149513827-006d3b6b-0310-4e38-93f3-8ed763da1ee9.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149513850-ee885cf7-c60d-4c3f-8c44-6f4e3c1d1cc3.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149513933-2ce235ff-bd72-4da4-a987-252a47428a6c.png)
+
+verifying if these cases work:
+
+![image](https://user-images.githubusercontent.com/95071003/149513781-b67d30de-a596-4bf4-bf0a-2c78cfed114f.png)
+
