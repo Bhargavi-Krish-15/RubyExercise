@@ -1117,3 +1117,24 @@ verifying if these cases work:
 
 ![image](https://user-images.githubusercontent.com/95071003/149513781-b67d30de-a596-4bf4-bf0a-2c78cfed114f.png)
 
+![image](https://user-images.githubusercontent.com/95071003/149535535-98341377-a878-4b4b-8244-247c8d62c98c.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149535575-1826fcd9-7055-4206-8d69-7a691b2ebfa2.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149535633-5e1e4a77-7874-49b1-b82a-d95293270301.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149535690-e83fa5d1-3cb9-47e1-b1c0-943b47acf9d6.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149535794-4f665315-8373-4b3e-9c58-91492631e08c.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149535834-b24e1579-261e-4da7-858a-aa64a31a6fe7.png)
+
+clicking play again goes to start again
+
+![image](https://user-images.githubusercontent.com/95071003/149535920-5fc3b298-ae3c-402e-b132-fb6af482a108.png)
+
+entering wrong answer:
+
+![image](https://user-images.githubusercontent.com/95071003/149536013-9f6ce18d-42b3-4b8f-93f9-493ce9b21ae1.png)
+
+![image](https://user-images.githubusercontent.com/95071003/149536356-a7ba60bd-27db-4673-bd95-2874460f0abd.png)
