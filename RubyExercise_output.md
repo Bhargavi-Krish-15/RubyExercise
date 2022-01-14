@@ -1137,4 +1137,10 @@ entering wrong answer:
 
 ![image](https://user-images.githubusercontent.com/95071003/149536013-9f6ce18d-42b3-4b8f-93f9-493ce9b21ae1.png)
 
+project file tree:
+
 ![image](https://user-images.githubusercontent.com/95071003/149536356-a7ba60bd-27db-4673-bd95-2874460f0abd.png)
+
+if you leave any session open and close the browser , when ou the open the same url again , session continues from where we left.
+but if we  give just '/' game starts from the begining.
+
