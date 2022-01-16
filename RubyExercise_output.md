@@ -903,7 +903,7 @@ The assert_equal method tests if the expected result is equal to the actual resu
 
 Write a new test case in tests/test_ex47.rb that creates a miniature version of your game from Exercise 45. This is one function that is similar to the current functions, but using your game's room names and abbreviated descriptions. Remember to use Room.add_paths to create the map, and use assertions to confirm everything works as expected.
 
-![image](https://user-images.githubusercontent.com/95071003/149659222-432ec0a7-8e31-47ab-bcba-3d0bb190e46c.png)
+![image](https://user-images.githubusercontent.com/95071003/149659291-ffd9d81f-14a3-4724-afae-9e78e27a48b0.png)
 
 ![image](https://user-images.githubusercontent.com/95071003/148644922-914e317b-dfcf-4113-bc22-9be40688dfe8.png)
 
