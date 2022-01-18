@@ -195,6 +195,10 @@ module Map
         'THE_END_WINNER' => THE_END_WINNER,
         'THE_END_LOSER' => THE_END_LOSER,
         'START' => START,
+        'THE_END_SHOOT' => THE_END_SHOOT,
+        'THE_END_DODGE' => THE_END_DODGE ,
+        'THE_END_BOMB' => THE_END_BOMB ,
+        'THE_END_THROW' => THE_END_THROW
     }
     
     #" :: - to be accessed from anywhere outside the class or module"
