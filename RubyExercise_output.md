@@ -201,7 +201,7 @@ Exercise -15: Reading files
 
 Get rid of the lines 8-13 where you use gets.chomp and run the script again.
 
-![image](https://user-images.githubusercontent.com/95071003/147819729-a4db379b-fecb-4252-ad56-cc493292b468.png)
+![image](https://user-images.githubusercontent.com/95071003/150150230-e899caa3-04a1-4fd8-b8fb-bbd78a2f2242.png)
 
 Use only gets.chomp and try the script that way. Why is one way of getting the filename better than another?
 
